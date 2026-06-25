@@ -162,14 +162,6 @@ Built AI-powered financial education tools using LLMs, RAG, semantic search, pre
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malozano1-ux&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malozano1-ux&layout=compact&hide_border=true)
-
----
-
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-lozano-395670299/)
