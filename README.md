@@ -1,41 +1,184 @@
-# Hi, I'm Manuela 👋
+# Hi, I'm Manuela Lozano 👋
 
-I'm a Statistics & Data Science and Economics student at UCLA, building end-to-end data solutions at the intersection of analytics, ML, and AI.
+**Data Scientist • Machine Learning Engineer • AI Builder**
 
----
+I'm passionate about using data and AI to solve real-world problems. My work spans machine learning, predictive analytics, business intelligence, NLP, LLM applications, and data engineering.
 
-## What I work on
-
-- 🤖 **AI & NLP** — LLM-powered chatbots, RAG pipelines, conversational agents
-- 📊 **Predictive modeling** — classification, regression, time series in Python & R
-- 💡 **Applied econometrics** — causal inference, panel data, experimental design
-- 📈 **Data visualization** — dashboards with Tableau, Quarto, and SQL
+🎓 B.S. Statistics & Data Science + B.A. Economics, UCLA  
+🎓 Incoming M.S. in Statistics (Advanced Methods & Data Analysis), University of Washington  
+☁️ Former Business Intelligence Engineer Intern @ Amazon Web Services (AWS)
 
 ---
 
-## Tech stack
+## 🚀 About Me
 
-**Languages:** Python · R · SQL  
-**ML/Stats:** scikit-learn · pandas · NumPy · tidyverse · ggplot2  
-**Tools:** Tableau · Quarto · Git · Jupyter  
-**APIs/AI:** Gemini API · OpenAI API · LangChain
+I enjoy building end-to-end data products—from collecting and cleaning data to training machine learning models and deploying AI-powered applications.
 
----
+My interests include:
 
-## Featured projects
-
-| Project | Description | Tools |
-|---|---|---|
-| [consultorIA](https://github.com/malozano1-ux/consultorIA) | LLM-powered chatbot with RAG for an investment platform | Python, Gemini API |
-| [CTR Prediction](https://manuela-lozano.netlify.app/projects/ctr.html) | Ad click-through rate modeling on behavioral data | Python, scikit-learn |
-| [Skin Cancer Risk Prediction](https://manuela-lozano.netlify.app/projects/skin-cancer.html) | Predictive modeling from clinical + lifestyle data | R, data mining |
-| [Macroeconomic Drivers of U.S. GDP](https://manuela-lozano.netlify.app/projects/gdp-macro.html) | Time series regression on unemployment, inflation, rates | R |
-| [CAPM vs Fama-French 3-Factor](https://manuela-lozano.netlify.app/projects/capm-ff3.html) | Asset pricing model comparison | R, finance |
+- 🤖 Machine Learning
+- 📈 Predictive Analytics & Forecasting
+- 🧠 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📊 Business Intelligence
+- ☁️ Data Engineering
+- 📉 Applied Statistics
 
 ---
 
-## Connect
+# 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-lozano-395670299/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://manuela-lozano.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malozano1@g.ucla.edu)
+### Languages
+
+Python • SQL • R • Java • Git
+
+### Machine Learning
+
+Scikit-learn • CatBoost • XGBoost • Random Forests • Logistic Regression • Neural Networks • Time Series Forecasting • NLP
+
+### AI
+
+OpenAI API • Gemini API • LangChain • RAG • FAISS • Prompt Engineering • Agentic AI
+
+### Data
+
+Pandas • NumPy • Tableau • QuickSight • Redash • Jupyter Notebook
+
+### Cloud
+
+AWS • GitHub • Docker (Learning)
+
+---
+
+# ⭐ Featured Projects
+
+## 🤖 Investment AI Agent
+
+LLM-powered financial education assistant built using Retrieval-Augmented Generation (RAG), semantic search, and vector databases.
+
+**Tech Stack**
+
+- Python
+- Gemini
+- FAISS
+- FastAPI
+- WhatsApp API
+
+---
+
+## 📈 Click Through Rate Prediction
+
+Built machine learning models on millions of advertising interactions to predict click behavior.
+
+Highlights:
+
+- Feature Engineering
+- CatBoost
+- Logistic Regression
+- CTGAN
+- ROC-AUC improvement from 0.71 → 0.81
+
+---
+
+## 🧠 Skin Cancer Prediction
+
+Machine learning model for automated skin lesion classification.
+
+Topics:
+
+- Computer Vision
+- Medical AI
+- Classification
+- Model Evaluation
+
+---
+
+## 🛸 UFO NLP & Statistical Modeling
+
+Natural Language Processing pipeline analyzing 140,000+ UFO sighting reports.
+
+Topics:
+
+- NLP
+- Sentiment Analysis
+- Poisson Regression
+- Geographic Data Analysis
+
+---
+
+## 🌎 Economic Forecasting
+
+Forecasting macroeconomic indicators using statistical learning and time-series models.
+
+Topics:
+
+- Forecasting
+- Time Series
+- Regression
+- Economics
+
+---
+
+# 📊 Experience
+
+### Amazon Web Services (AWS)
+
+**Business Intelligence Engineer Intern**
+
+- Built forecasting pipelines
+- Developed predictive models
+- Automated ETL workflows
+- Built QuickSight dashboards
+- Improved operational planning using machine learning
+
+---
+
+### Insights Investment
+
+**Data Scientist**
+
+Built AI-powered financial education tools using LLMs, RAG, semantic search, predictive analytics, and statistical modeling.
+
+---
+
+# 🌱 Currently Learning
+
+- Production ML Systems
+- MLOps
+- Docker
+- Kubernetes
+- AWS Deployment
+- LLM Evaluation
+- AI Agents
+
+---
+
+# 📚 Current Goals
+
+- Build production-ready AI applications
+- Publish more open-source projects
+- Contribute to machine learning repositories
+- Learn scalable ML infrastructure
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malozano1-ux&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malozano1-ux&layout=compact&hide_border=true)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **(https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malozano1@g.ucla.edu)**
+
+💼 LinkedIn: *(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-lozano-395670299/)*
+
+🌐 Portfolio: *(https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://manuela-lozano.netlify.app)*
+
+---
+
+> "The best way to learn data science is to build things."
+
