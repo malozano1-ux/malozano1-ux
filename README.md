@@ -172,11 +172,9 @@ Built AI-powered financial education tools using LLMs, RAG, semantic search, pre
 
 # 📫 Connect With Me
 
-📧 Email: **(https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malozano1@g.ucla.edu)**
-
-💼 LinkedIn: *(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-lozano-395670299/)*
-
-🌐 Portfolio: *(https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://manuela-lozano.netlify.app)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-lozano-395670299/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://manuela-lozano.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:malozano1@g.ucla.edu)
 
 ---
 
